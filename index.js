@@ -1,1 +1,3 @@
-console.log("Hello, Hexlet!");
+import main from './src/index.js'
+
+main();

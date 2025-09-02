@@ -1,5 +1,9 @@
 import _ from 'lodash'
 
+function main() {
+	// Ваша логика здесь
+} 
+export default main;
 
 console.log('Hello, Hexlet!');
 
